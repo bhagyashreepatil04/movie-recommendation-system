@@ -3,6 +3,9 @@
 Live App:
 https://movie-recommendation-system-ssjybmbadwuszjxbscymva.streamlit.app/
 
+## App Preview
+![App Screenshot](app_screenshot.png)
+
 ## About
 This project is a content-based movie recommendation system built using Python and Machine Learning.  
 The web application is deployed using Streamlit.
