@@ -1,7 +1,7 @@
 # AI Movie Recommendation System
 
 Live App:
-https://movie-recommendation-system-xxxxx.streamlit.app
+https://movie-recommendation-system-ssjybmbadwuszjxbscymva.streamlit.app/
 
 ## About
 This project is a content-based movie recommendation system built using Python and Machine Learning.  
